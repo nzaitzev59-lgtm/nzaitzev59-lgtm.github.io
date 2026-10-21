@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "English Quest 5",
+  "short_name": "English Quest",
+  "description": "15 минут английского каждый день",
+  "lang": "ru",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f7f2",
+  "theme_color": "#255c4a",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
